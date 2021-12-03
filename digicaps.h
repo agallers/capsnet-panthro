@@ -1,3 +1,5 @@
+/* Andy Gallerstein (c) 2021, andy.gallerstein@gmail.com */
+
 #ifndef PANTHRO_DIGICAPS_H
 #define PANTHRO_DIGICAPS_H
 

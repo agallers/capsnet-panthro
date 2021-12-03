@@ -1,3 +1,5 @@
+/* Andy Gallerstein (c) 2021, andy.gallerstein@gmail.com */
+
 #include "digicaps.h"
 
 #include <fstream>

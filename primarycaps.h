@@ -1,3 +1,5 @@
+/* Andy Gallerstein (c) 2021, andy.gallerstein@gmail.com */
+
 #ifndef PANTHRO_PRIMARYCAPS_H
 #define PANTHRO_PRIMARYCAPS_H
 

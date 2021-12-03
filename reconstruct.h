@@ -1,3 +1,5 @@
+/* Andy Gallerstein (c) 2021, andy.gallerstein@gmail.com */
+
 #ifndef PANTHRO_RECONSTRUCT_H
 #define PANTHRO_RECONSTRUCT_H
 #include <vector>
