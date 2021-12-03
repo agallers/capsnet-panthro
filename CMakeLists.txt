@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8.12)
+project( PANTHRO )
+SET("OpenCV_DIR" "~/sw/vision/build_opencv")
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( PANTHRO main.cpp mnist.cpp primarycaps.cpp digicaps.cpp reconstruct.cpp )
+target_link_libraries( PANTHRO ${OpenCV_LIBS} )
